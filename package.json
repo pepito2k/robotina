@@ -21,6 +21,7 @@
     "hubot-slack": "^3.3.0",
     "hubot-thank-you": "0.0.3",
     "hubot-thesimpsons": ">= 0.0.0",
+    "hubot-voting": "^1.0.0",
     "underscore": "^1.8.3"
   },
   "engines": {
