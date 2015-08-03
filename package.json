@@ -5,6 +5,7 @@
   "author": "Gonzalo Robaina <gonzalor@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "cheerio": "^0.19.0",
     "hubot": "^2.13.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.1.5",
@@ -19,7 +20,8 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-thank-you": "0.0.3",
-    "hubot-thesimpsons": ">= 0.0.0"
+    "hubot-thesimpsons": ">= 0.0.0",
+    "underscore": "^1.8.3"
   },
   "engines": {
     "node": "0.10.x"
