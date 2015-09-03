@@ -14,5 +14,6 @@
   "remember.coffee",
   "spotify.coffee",
   "wat.coffee",
-  "xkcd.coffee"
+  "xkcd.coffee",
+  "roles.coffee"
 ]
